@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Peggy Vanessa (@vassa33)
+- 👋 Hi, @vassa33 here
 - 👀 I’m interested in tech, all things data, and Visualizations.
-- 🌱 I did quite a few rounds of Front-end Development (HTML,CSS & JavaScript), but currently pursuing Data Analytics and Machine Learning.
-- 💞️ I’m looking to collaborate on various projects that target design and creativity
-- 📫 How to reach me: email - peggyongoma@gmail.com
+- 🌱 Did quite a few rounds of Front-end Development (HTML,CSS & JavaScript), but currently pursuing Data Analytics and Machine Learning.
+- 📫 How to reach me: email - p.otieno@alustudent.com
