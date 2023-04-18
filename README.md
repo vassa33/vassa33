@@ -1,4 +1,4 @@
 - 👋 Hi, @vassa33 here
-- 👀 I’m interested in tech, all things data, and Visualizations.
-- 🌱 Did quite a few rounds of Front-end Development (HTML,CSS & JavaScript), but currently pursuing Data Analytics and Machine Learning.
-- 📫 How to reach me: email - p.otieno@alustudent.com
+- 👀 Interested in tech, all things data, and Visualizations.
+- 🌱 Currently pursuing Data Science and Machine Learning.
+- 📫 On occasion I develop Web applications too < _ >
