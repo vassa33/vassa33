@@ -15,4 +15,4 @@ I'm a **Software Engineer** passionate about turning data into actionable insigh
 - 👯 **Open to Collaborate**: On projects related to **AI**, **Data Science**, and **Web Development**.
 - ✍️ **Occasionally Blog**: On topics like **Data Science**, **Machine Learning**, and **Emerging Technologies**.
 - 📫 **Get in touch**:  
-  - LinkedIn: [Peggy Otieno](https://www.linkedin.com/in/peggy-otieno/)
+  - LinkedIn: [Peggy Ongoma](https://www.linkedin.com/in/peggy-ongoma/)
